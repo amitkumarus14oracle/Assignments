@@ -1,6 +1,6 @@
 public class Test {
 	public static void main(String as[]) {
-		System.out.println("Kedar"+"\n"+new kd("kedar","jadhav"));
+		System.out.println("Kedar"+"\n"+new kd("kedar","Muchte"));
 	}
 }
 
