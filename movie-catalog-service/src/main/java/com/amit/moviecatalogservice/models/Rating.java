@@ -1,4 +1,4 @@
-package com.amit.ratingsdataservice.models;
+package com.amit.moviecatalogservice.models;
 
 public class Rating {
     private String movieId;
